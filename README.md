@@ -17,6 +17,7 @@ If Professor Andy Pavlo sees this repository and believes it should not be publi
 ### Installing
 
 * For homework1, please refer to https://15445.courses.cs.cmu.edu/fall2023/homework1/ for installation
+* Due to the Github file size limit, you have to download "musicbrainz-cmudb2023.db" and "musicbrainz-cmudb2023.duckdb" yourself to run the autograder. Please follow the instructions on https://15445.courses.cs.cmu.edu/fall2023/homework1/
 * I'm using mac m1 pro, apple silicon
 
 ## Authors
