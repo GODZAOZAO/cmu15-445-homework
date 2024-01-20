@@ -6,9 +6,9 @@ hw1 HackMD markdown: https://hackmd.io/@pVQjRpzSSs26TNkEXVPQHg/BJPJTBAwa
 
 ## Description
 
-I'm not a CMU student, but I want to learn this course. This repository is for non-CMU students since there are no Gradescope autograders for the homework in this course. As of now, I have completed homework 1 (SQL), and I have also added an autograde.py script. However, the autograde.py script's answers are based on my answers. If my answers are incorrect, please consider submitting a pull request to this repository with the corrections.
+I am not a CMU student, but I am interested in learning from their courses. This repository is intended for non-CMU students, as there are no Gradescope autograders available for the course's homework. Currently, I have completed Homework 1 (SQL) and have added an autograde.py script. However, the answers in the autograde.py script are based on my solutions. If you find any inaccuracies in my answers, please consider submitting a pull request to this repository with the correct solutions.
 
-If Professor Andy Pavlo sees this repository and believes it should not be public, I will delete the repository.
+Should Professor Andy Pavlo come across this repository and feel that it should not be publicly available, I will promptly remove it.
 
 ## Getting Started
 
